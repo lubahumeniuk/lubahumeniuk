@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @lubahumeniuk
 - 👀 I’m interested in data
-- 🌱 I’m currently learning phyton, r studio
-- 💞️ 
+- 🌱 I’m currently learning phyton, r studio & SQL
+  
 
 
 <!---
